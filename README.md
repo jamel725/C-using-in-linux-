@@ -1,2 +1,2 @@
-#Procedural programming
+# Procedural programming
 In my C programming project, I gained extensive experience working with modular program structures, static libraries, file structure management, bitwise operations, and pointer manipulation. I implemented dynamic memory allocation, error handling techniques, and explored generic programming using function pointers and variadic arguments. Additionally, I developed a deep understanding of memory layouts, optimized data structures, and applied algorithmic techniques in text analysis and the Game of Life implementation. Throughout the project, I worked in a Linux environment, strengthening my skills in system-level programming and improving my efficiency in utilizing the terminal and debugging tools.
